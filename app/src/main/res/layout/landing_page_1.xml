@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="141dp"
+        tools:layout_editor_absoluteY="193dp"
+        tools:srcCompat="@tools:sample/avatars"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/signin"
+        android:layout_width="179dp"
+        android:layout_height="52dp"
+        android:text="SIGN IN"
+        tools:layout_editor_absoluteX="116dp"
+        tools:layout_editor_absoluteY="408dp"
+        tools:ignore="MissingConstraints"/>
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="175dp"
+        android:layout_height="51dp"
+        android:text="REGISTER"
+        tools:layout_editor_absoluteX="116dp"
+        tools:layout_editor_absoluteY="496dp"
+        tools:ignore="MissingConstraints"/>
+</android.support.constraint.ConstraintLayout>

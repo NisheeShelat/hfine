@@ -1,0 +1,11 @@
+Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6,Symptom_7
+Allergy,chills,shivering,watering_from_eyes,continuous_sneezing,,,
+GERD,cough,ulcers_on_tongue,stomach_pain,vomiting,chest_pain,acidity,
+Diabetes,restlessness,blurred_and_distorted_vision,lethargy,tired,weight_loss,obesity,irregular_sugar_level
+Migraine,depression,blurred_and_distorted_vision,stiff_neck,visual_disturbance,acidity,irritability,headache
+Malaria,vomiting,nausea,muscle_pain,sweating,headache,chills,fever
+Chicken Pox,loss_of_apetite,headache,tired,itching,skin_rash,fever,red_spots_over_body
+Dengue,skin_rash,vomiting,tired,back_pain,muscle_pain,headache,fever
+Tuberculosis,chills,vomiting,tired,loss_of_apetite,weight_loss,breathlessness,cough
+Common Cold,chills,fever,tired,redness_of_eyes,headache,throat_irritation,continuous_sneezing
+Pneumonia,sweating,tired,breathlessness,chills,chest_pain,cough,fever

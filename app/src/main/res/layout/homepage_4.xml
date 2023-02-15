@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="135dp"
+        tools:layout_editor_absoluteY="85dp"
+        tools:srcCompat="@tools:sample/avatars"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="109dp"
+        android:layout_height="80dp"
+        app:srcCompat="@drawable/ic_mic"
+        tools:layout_editor_absoluteX="139dp"
+        tools:layout_editor_absoluteY="285dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UPDATE PROFILE"
+        tools:layout_editor_absoluteX="129dp"
+        tools:layout_editor_absoluteY="413dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PREVIOUS HISTORY"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="487dp"
+        tools:ignore="MissingConstraints" />
+</android.support.constraint.ConstraintLayout>
