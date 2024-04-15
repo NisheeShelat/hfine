@@ -1,4 +1,7 @@
-# HFine
+#  H-fine Medical App: Flutter (Dart) | ML | NLP | Python | Android Studio | Firebase	  May 2022
+- Devised an android application which uses advanced NLP algorithms, including sentiment analysis and named entity recognition, to expedite the disease diagnosis process while also overcoming the barrier of multilingualism.
+- Published a paper on an NLP-based framework to detect ailment using patient symptom summaries, at 3rd IEEE on advanced computing, communication control, and networking. (ISBN number: 978-1-6654-3811-7)
+
 
 # Architecture
 ![image](https://github.com/NisheeShelat/hfine/assets/111619423/b0eeb827-03ad-4c05-9fb9-96d424e87fea)
